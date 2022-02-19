@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olipliche&label=Profile%20views&color=0e75b6&style=flat" alt="olipliche" /> </p>
 
-<p align="left"> <a href="https://twitter.com/paka" target="blank"><img src="https://img.shields.io/twitter/follow/paka?logo=twitter&style=for-the-badge" alt="paka" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paka" target="blank"><img src="https://img.shields.io/twitter/follow/paka?logo=twitter&style=for-the-badge" alt="paka" />Twitter</a> </p>
 
 - **Languages**: HTML5, CSS, JavaScript, Ruby, Redux
 - **Frameworks and libraries**: Bootstrap, React, Redux, Ruby on Rails, Node.JS
