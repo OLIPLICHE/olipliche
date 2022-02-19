@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/paka" target="blank"><img src="https://img.shields.io/twitter/follow/paka?logo=twitter&style=for-the-badge" alt="paka" /></a> </p>
 
-- 🌱 **Languages**: HTML5, CSS, JavaScript, Ruby, Redux
-- 🌱 **Frameworks and libraries**: Bootstrap, React, Redux, Ruby on Rails, Node.JS
-- 🌱 **Testing**: Jest, RSpec, Capybara
-- 🌱 **Documentation**: Swagger
-- 🌱 **Databases**: PostgreSQL, MySQL, SQLite3
-- 🌱 **Other**: Git version control, Linux, Heroku, pair programming, Webpack
+- **Languages**: HTML5, CSS, JavaScript, Ruby, Redux
+- **Frameworks and libraries**: Bootstrap, React, Redux, Ruby on Rails, Node.JS
+- **Testing**: Jest, RSpec, Capybara
+- **Documentation**: Swagger
+- **Databases**: PostgreSQL, MySQL, SQLite3
+- **Other**: Git version control, Linux, Heroku, pair programming, Webpack
 
-- ⚡ Fun fact **Stay humble because the second you stop being a student, your knowledge becomes fragile**
+- ⚡ **Fun fact** Stay humble because the second you stop being a student, your knowledge becomes fragile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
