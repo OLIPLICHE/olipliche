@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Olipliche Mavoungou Paka</h1>
-<h3 align="center">I am a software developer student @Microverse</h3>
+<h3 align="center">Remote Full-stack web developer looking for exciting adventure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olipliche&label=Profile%20views&color=0e75b6&style=flat" alt="olipliche" /> </p>
 
 <p align="left"> <a href="https://twitter.com/paka" target="blank"><img src="https://img.shields.io/twitter/follow/paka?logo=twitter&style=for-the-badge" alt="paka" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Ruby, Redux, Ruby and rail**
-
-- 💬 Ask me about **Programming or Petroleum Engineering and I will answer you**
+- 🌱 **Languages**: HTML5, CSS, JavaScript, Ruby, Redux
+- 🌱 **Frameworks and libraries**: Bootstrap, React, Redux, Ruby on Rails, Node.JS
+- 🌱 **Testing**: Jest, RSpec, Capybara
+- 🌱 **Documentation**: Swagger
+- 🌱 **Databases**: PostgreSQL, MySQL, SQLite3
+- 🌱 **Other**: Git version control, Linux, Heroku, pair programming, Webpack
 
 - ⚡ Fun fact **Stay humble because the second you stop being a student, your knowledge becomes fragile**
 
